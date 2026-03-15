@@ -2,15 +2,15 @@ I mostly develop in python and am interested in robotics, machine learning, and 
 
 Interests
 
--Machine Learning
+Machine Learning
 
--Robotics and Embedded Systems
+Robotics and Embedded Systems
 
--Computer Vision
+Computer Vision
 
--Distributed Systems
+Distributed Systems
 
--Information Retrieval
+Information Retrieval
 
--LLMs
+LLMs
 
